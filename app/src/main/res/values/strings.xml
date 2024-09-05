@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Spent-X</string>
+    <string name="register">Register</string>
+    <string name="already_a_user">Already a User?</string>
+    <string name="new_user">New User?</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fab_add_new">Add/New</string>
+    <string name="fab_scan">Scan</string>
+</resources>
